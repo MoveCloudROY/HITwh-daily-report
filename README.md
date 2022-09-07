@@ -40,4 +40,4 @@ pip install -r requirements.txt
 
 3. 设置定时任务
 
-​	方式较多，这里不做赘述
+   设置定时任务运行 report.py , 方式较多，这里不做赘述
